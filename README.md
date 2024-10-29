@@ -17,9 +17,9 @@ SCAP consists of multiple component specifications that work together to standar
 - **Common Vulnerabilities and Exposures (CVE)**
 - **Common Configuration Enumeration (CCE)**
 - **Common Vulnerability Scoring System (CVSS)**
-- **Open Checklist Interactive Language (OCIL)**
 - **Software Identification (SWID) Tags**
 - **Asset Reporting Format (ARF)**
+- **Trust Model for Security Automation Data (TMSAD)**
 
 For more detailed information on each component, see the [NIST documentation on SCAP](https://csrc.nist.gov/projects/security-content-automation-protocol/).
 
