@@ -11,12 +11,15 @@ The Security Content Automation Protocol (SCAP) is a suite of standards that sup
 SCAP consists of multiple component specifications that work together to standardize security configuration and vulnerability assessments:
 - **Extensible Configuration Checklist Description Format (XCCDF)**
 - **Open Vulnerability and Assessment Language (OVAL)**
+- **Open Checklist Interactive Language (OCIL)**
+- **Asset Identification (AI)**
 - **Common Platform Enumeration (CPE)**
 - **Common Vulnerabilities and Exposures (CVE)**
 - **Common Configuration Enumeration (CCE)**
 - **Common Vulnerability Scoring System (CVSS)**
 - **Open Checklist Interactive Language (OCIL)**
 - **Software Identification (SWID) Tags**
+- **Asset Reporting Format (ARF)**
 
 For more detailed information on each component, see the [NIST documentation on SCAP](https://csrc.nist.gov/projects/security-content-automation-protocol/).
 
